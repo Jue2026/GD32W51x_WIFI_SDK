@@ -1,6 +1,6 @@
-# GD32W51x Wi-Fi SDK
+# 欢迎使用 GD32W51x Wi-Fi SDK
 
-**中文** | [English](README_EN.md)
+**中文** | [English](README.md)
 
 面向 GD32W51x 系列 MCU 的 Wi-Fi SDK，当前发布版本为 **V1.0.5**。SDK 提供从启动加载、RTOS操作系统、外设驱动，到 Wi-Fi协议栈、网络协议栈、应用框架及示例工程的完整开发基础。
 

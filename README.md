@@ -1,6 +1,6 @@
 # Welcom to the GD32W51x Wi-Fi SDK
 
-[中文](README.md) | **English**
+[中文](README_CN.md) | **English**
 
 Wi-Fi SDK for the GD32W51x MCU family. The current release is **V1.0.5**. The SDK provides a complete development base, from the bootloader, RTOS and peripheral drivers up to the Wi-Fi stack, network stack, application framework and example projects.
 
