@@ -1,4 +1,4 @@
-# GD32W51x Wi-Fi SDK
+# Welcom to the GD32W51x Wi-Fi SDK
 
 [中文](README.md) | **English**
 
